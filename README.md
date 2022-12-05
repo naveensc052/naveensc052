@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen S Chegaraddi</h1>
-<h3 align="center">I am a ML enthsuiast</h3>
+<h3 align="center">I am a ML enthusiast</h3>
 
 - 🌱 I’m currently learning **Python, DSA**
 
