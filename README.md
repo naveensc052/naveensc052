@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveen S Chegaraddi</h1>
 <h3 align="center">I am a ML enthusiast</h3>
 
-- 🌱 I’m currently learning **Python, DSA**
+- 🌱 I’m currently learning **Python, DSA, Statistics, and ML models**
 
 - 👯 I’m looking to collaborate on **Python Development and ML projects**
 
